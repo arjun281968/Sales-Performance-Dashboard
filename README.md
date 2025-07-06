@@ -26,7 +26,8 @@ This Power BI dashboard provides insights into sales and profitability using the
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](DashboardScreenshot.png)
+"C:\Users\arjun\Desktop\Power_BI\DashboardScreenshot.png"
+
 
 > 💡 *Note: Replace this image name with your actual screenshot filename or link.*
 
